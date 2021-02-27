@@ -1,2 +1,2 @@
 # Hello-World
- A Hello World repository
+ This is a Hello World repository. Just getting used to how it works.
